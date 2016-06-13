@@ -14,6 +14,7 @@
 This library lets you expose Cassandra tables as Spark RDDs, write Spark RDDs to Cassandra tables, and
 execute arbitrary CQL queries in your Spark applications.
 
+
 ## Features
 
  - Compatible with Apache Cassandra version 2.0 or higher (see table below)
